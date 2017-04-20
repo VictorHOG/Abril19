@@ -1,7 +1,6 @@
-*Abril 19
+#Abril 19
 
-Ejercicios Practicos
-====================
+##Ejercicios Practicos
 
 	- Ejercicio 1.
 	Instruccion que retorna el numero de procesos en ejecucion en un sistema operativo.
