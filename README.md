@@ -2,15 +2,15 @@
 
 ##Ejercicios Practicos
 
-	- Ejercicio 1.
-	Instruccion que retorna el numero de procesos en ejecucion en un sistema operativo.
+- Ejercicio 1.
+Instruccion que retorna el numero de procesos en ejecucion en un sistema operativo.
 
-	```
-	ps -A | wc -l	
-	```
+```
+ps -A | wc -l	
+```
 
-	- Ejercicio 2.
-	Instruccion que imprime el valor de elevar 2 a la potencia 4, por medio del operador "**" .
+- Ejercicio 2.
+Instruccion que imprime el valor de elevar 2 a la potencia 4, por medio del operador "**" .
 
 	```
 	echo $(( 2 ** 4 ))
